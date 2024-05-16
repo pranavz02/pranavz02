@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavz02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavz02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![pranavz's GitHub | Stats](https://stats.quine.sh/pranavz/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranavz)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranavz02&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
